@@ -1,25 +1,5 @@
-.person {
-    display: inline-block;
-    margin: 20px;
-    border: 1px solid #eee;
-    border-radius: 5px;
-    box-shadow: 3px 3px 12px #ccc;
-    width: 200px;
-    padding: 20px;
-    text-align: center;
-    background-color: #f1f1f1;
-    font-family: sans-serif;
-  }
-
-  small {
-    font-family: cursive;
-  }
-
-  .small {
-    display: block;
-    text-align: left;
-    font-size: 0.6rem;
-    font-family: Arial, Helvetica, sans-serif;
-    padding-top: 10px;
-    color: rgb(155, 149, 149);
-  }
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
